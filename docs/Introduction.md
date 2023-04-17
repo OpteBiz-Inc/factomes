@@ -31,5 +31,5 @@ Our MES (Manufacturing Execution System) solution streamlines your manufacturing
 
 FactoMES: FactoMES is a SCADA Based Industry Standard Operational Intelligence Solution which is aligned with ISA-95 standard of Enterprise and Control Systems for Manufacturing. This offering is an End to End solution to track, manage and control all your shop floor activities. Moreover, its robust data model and flexible design integrates with most of the manufacturing processes with minimum configuration efforts.
 
-![](../../assets/images/Introduction/Overview.png)
+![](../../assets/images/introduction/HighLevelOverview.png)
 {: style="text-align:center;"}

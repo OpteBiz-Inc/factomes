@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Licensing and activation
-nav_order: 5
+nav_order: 6
 ---
 # Licensing and activation
 
