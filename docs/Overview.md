@@ -18,7 +18,6 @@ Operation flow utilizes the Line, Process, Equipment relationship along with Mat
 
 The FactoMES suite is divided into different models. The models are :
 * Resource Model:
-
     The Resource Model is a refined framework used to optimize the use of resources in a given operation. The model is designed with the assumption that resources can be categorized into three main components: Equipment, Materials, and Personnel.
     The Equipment component refers to the physical tools and machinery used in a process, such as computers, vehicles, or specialized equipment. The Materials component refers to the raw materials, parts, or finished products used in the process, such as chemicals, steel, or finished goods. The Personnel component refers to the human resources involved in the process, including employees, contractors, or service providers.
     Each component of the Resource Model has a set of properties or attributes that define its characteristics and capabilities. These properties can be used to configure the business logic of a given process or operation, such as determining which equipment is needed for a particular process or which materials are required to produce a specific product.
