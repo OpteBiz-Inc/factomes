@@ -5,6 +5,13 @@ nav_order: 4
 ---
 # Overview
 
+## High Level Overview
+
+FactoMES is a SCADA Based Industry Standard Operational Intelligence Solution which is aligned with ISA-95 standard of Enterprise and Control Systems for Manufacturing. This offering is an End to End solution to track, manage and control all your shop floor activities. Moreover, its robust data model and flexible design integrates with most of the manufacturing processes with minimum configuration efforts.
+
+![](../../assets/images/overview/HighLevelOverview.png)
+{: style="text-align:center;"}
+
 ## Architecture
 FactoMES Resource Model considers Equipment, Material and Person as the main resources. 
 All the three are aligned with the processes or process groups for defining production steps or formulae. Processes are configured with the manufacturing lines in a defined yet updatable sequence. 
