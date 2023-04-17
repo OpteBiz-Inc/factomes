@@ -26,3 +26,10 @@ Overall, MES systems can provide valuable information and control for a wide ran
 ## Why Optebiz
 
 Our MES (Manufacturing Execution System) solution streamlines your manufacturing process by integrating data from various sources to provide real-time visibility into production, quality control, and inventory management. With our MES solution, you can optimize your manufacturing processes, reduce downtime, increase throughput, and improve product quality. Our solution offers easy integration with existing systems and a user-friendly interface for quick and easy adoption. With our MES solution, you can improve operational efficiency, reduce costs, and gain a competitive edge in the market.
+
+## High Level Overview
+
+FactoMES: FactoMES is a SCADA Based Industry Standard Operational Intelligence Solution which is aligned with ISA-95 standard of Enterprise and Control Systems for Manufacturing. This offering is an End to End solution to track, manage and control all your shop floor activities. Moreover, its robust data model and flexible design integrates with most of the manufacturing processes with minimum configuration efforts.
+
+![](../../assets/images/Introduction/Overview.png)
+{: style="text-align:center;"}
