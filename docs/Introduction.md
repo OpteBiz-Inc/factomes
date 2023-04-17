@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 nav_order: 3
 ---
-# Introducing FactoMes
+# Introducing FactoMES
 
 <!-- ## Overview
  *  FactoMES is an MES software that provides real-time data analysis and reporting. Manage material flow and product status, and optimize your supply chain

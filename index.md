@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# **FactoMes**
+# **FactoMES**
 {: style="text-align:center;"}
 
 ![](./assets/images/optebiz-logo.png)
