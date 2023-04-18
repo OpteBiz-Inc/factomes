@@ -10,13 +10,15 @@ In ReasonCode screen you have the following tabs.
 
 ## Downtime
 * Downtime screen in FactoMES module in Designer
- ![](../../../assets/images/screens/downtime.png)
- {: style="text-align:center;"}
+
+![](../../../assets/images/screens/downtime.png)
+{: style="text-align:center;"}
 
 ## Scrap
 * Scrap screen in FactoMES module in Designer
- ![](../../../assets/images/screens/scrap.png) 
- {: style="text-align:center;"}
+
+![](../../../assets/images/screens/scrap.png) 
+{: style="text-align:center;"}
 
 
 
