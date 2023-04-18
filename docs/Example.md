@@ -4,7 +4,7 @@ title: Example
 nav_order: 8
 ---
 # Creating Resource:
-Creating a new resource in FactoMes
+Creating a new resource in FactoMES
  *  Create resource: - Right-click on the FactoGrid project resource in the Project browser tree
 
 ![](../../assets/images/example/example-1.png)

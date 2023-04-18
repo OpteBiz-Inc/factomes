@@ -16,7 +16,7 @@ nav_order: 9
 # Prerequisites of the module:
 
 * **On the Ignition gateway, the module file will have to be uploaded on Ignition**
-![](../../assets/images/glossary/glossary.png) 
+![](../../assets/images/glossary/glossary.png)
+{: style="text-align:center;"} 
 
 * **After uploading the module, the next step is to open the Ignition Designer Launcher**
-

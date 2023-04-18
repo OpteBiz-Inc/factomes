@@ -6,9 +6,10 @@ has_children: true
 ---
 # Screens
 
-FactoMes includes the bewlow mentioned screens. You can navigate through them for easy management of the process.
-Below is the snippet of all the screen available in FactoMes project
+FactoMES includes the bewlow mentioned screens. You can navigate through them for easy management of the process.
+Below is the snippet of all the screen available in FactoMES project
  ![](../../../assets/images/screens/screens.png)
+{: style="text-align:center;"}
 
 
 

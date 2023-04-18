@@ -9,12 +9,14 @@ nav_order: 1
 In ReasonCode screen you have the following tabs.
 
 ## Downtime
-Downtime screen in FactoMes module in Designer
+* Downtime screen in FactoMES module in Designer
  ![](../../../assets/images/screens/downtime.png)
+ {: style="text-align:center;"}
 
 ## Scrap
-Scrap screen in FactoMes module in Designer
+* Scrap screen in FactoMES module in Designer
  ![](../../../assets/images/screens/scrap.png) 
+ {: style="text-align:center;"}
 
 
 

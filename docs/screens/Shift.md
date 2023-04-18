@@ -8,15 +8,12 @@ nav_order: 1
 
 In Shift screen you have the following tabs.
 
-## Shift
-Shift screen in FactoMes module in Designer
- ![](../../../assets/images/screens/shift.png)
-
 ## LineShift
-LineShift screen in FactoMes module in Designer
+* LineShift screen in FactoMES module in Designer
  ![](../../../assets/images/screens/lineshift.png) 
+ {: style="text-align:center;"}
 
-
-
-
-
+## Shift
+* Shift screen in FactoMES module in Designer
+ ![](../../../assets/images/screens/shift.png)
+ {: style="text-align:center;"}

@@ -8,30 +8,32 @@ nav_order: 1
 
 In Resource screen you have the following tabs.
 
-## Equipment
-Equipment screen in FactoMes module in Designer
- ![](../../../assets/images/screens/equipment.png)
-
 ## EquipmentClass
-EquipmentClass screen in FactoMes module in Designer
+* EquipmentClass screen in FactoMES module in Designer
  ![](../../../assets/images/screens/equipmentclass.png) 
+{: style="text-align:center;"}
 
-## Material
-Material screen in FactoMes module in Designer
- ![](../../../assets/images/screens/material.png) 
+## Equipment
+* Equipment screen in FactoMES module in Designer
+ ![](../../../assets/images/screens/equipment.png)
+ {: style="text-align:center;"}
 
 ## MaterialClass
-MaterialClass screen in FactoMes module in Designer
+* MaterialClass screen in FactoMES module in Designer
  ![](../../../assets/images/screens/materialclass.png) 
+ {: style="text-align:center;"}
 
-## Person
-Person screen in FactoMes module in Designer
- ![](../../../assets/images/screens/person.png) 
+## Material
+* Material screen in FactoMES module in Designer
+ ![](../../../assets/images/screens/material.png)
+ {: style="text-align:center;"} 
 
 ## PersonClass
-PersonClass screen in FactoMes module in Designer
+* PersonClass screen in FactoMES module in Designer
  ![](../../../assets/images/screens/personclass.png) 
+ {: style="text-align:center;"}
 
-
-
-
+## Person
+* Person screen in FactoMES module in Designer
+ ![](../../../assets/images/screens/person.png) 
+ {: style="text-align:center;"}
