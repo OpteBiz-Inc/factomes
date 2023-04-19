@@ -9,47 +9,48 @@ Are you new to FactoMES? Here are a few simple steps to get going right away! In
 ## Install FactoMES
 Installation is simple and can be done in under 3 minutes! Let's get started and install now. Here's how you can install a module on the Ignition gateway:
 
-1. **Download the module** : 
+1.**Download the module** : 
 
 * You will need to download the module that you want to install on the Ignition gateway. Modules can be downloaded from the Ignition website or from third-party sources.
 
 ![](../../assets/images/quickstart/Download_Modules.png)  
 {: style="text-align:center;"}
 
-2.  **Open the Ignition Gateway Webpage** : 
+
+2.**Open the Ignition Gateway Webpage** : 
 
 * Open a web browser and navigate to the Ignition gateway webpage. This is usually done by entering the IP address or hostname of the Ignition gateway in the address bar of your web browser.
 
 ![](../../assets/images/quickstart/HomePage.png)  
 {: style="text-align:center;"}
 
-3.  **Log in to the Gateway** : 
+3.**Log in to the Gateway** : 
 
 * Enter your username and password to log in to the Ignition gateway.
 
 ![](../../assets/images/quickstart/LoginPage.png)  
 {: style="text-align:center;"}
 
-4. **Navigate to the Module section** : 
+4.**Navigate to the Module section** : 
 
 * Click on the "Configure" tab and then select the "Modules" option from the dropdown menu.
 
 ![](../../assets/images/quickstart/ConfigModulePath.png)  
 {: style="text-align:center;"}
 
-5. **Install the module** : 
+5.**Install the module** : 
 
 * Click on the "Install or Upgrade a Module" button.
 
 ![](../../assets/images/quickstart/Installation-InstallUpgrade.png)  
 {: style="text-align:center;"}
 
-* Click on Choose File button, It will open a dialogue box, browse to the location of the module file that you downloaded in step 1.
+* Click on Choose File button, It will open a dialogue box, browse to the location of the module file that you downloaded earlier.
 
 ![](../../assets/images/quickstart/Installation-Dialogue.png)  
 {: style="text-align:center;"}
 
-* Select the module file and click on the "Upload and Install" button.
+* Select the module file and click on the "Install" button.
 
 ![](../../assets/images/quickstart/Installation-ModuleSelect.png)  
 {: style="text-align:center;"}
@@ -59,7 +60,7 @@ Installation is simple and can be done in under 3 minutes! Let's get started and
 ![](../../assets/images/quickstart/Installation-AfterInstall.png)  
 {: style="text-align:center;"}
 
-6. **Restart the Gateway** :
+6.**Restart the Gateway** :
 
 * After the module has been installed, you will need to restart the Ignition gateway for the changes to take effect.
 
