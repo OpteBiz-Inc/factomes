@@ -76,6 +76,7 @@ Installation is simple and can be done in under 3 minutes! Let's get started and
 
 ## Open the Designer
 * Open the Designer and enter your login credentials and open FactoMES as Project.
+
 ![](../../assets/images/quickstart/OpenDesigner.png)  
 {: style="text-align:center;"}
 
