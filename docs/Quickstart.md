@@ -7,7 +7,7 @@ nav_order: 5
 Are you new to FactoMES? Here are a few simple steps to get going right away! In very little time, you can start up the project and start exploring. 
 
 ## Install FactoMES
-Installation is simple and can be done in under 3 minutes! Let's get started and install now. Here's how you can install a module on the Ignition gateway:
+Installation is simple and can be done in few minutes! Let's get started and install now. Here's how you can install a module on the Ignition gateway:
 
 ### 1. Download the module : 
 
@@ -60,27 +60,15 @@ Installation is simple and can be done in under 3 minutes! Let's get started and
 ![](../../assets/images/quickstart/Installation-AfterInstall.png)  
 {: style="text-align:center;"}
 
-### 6. Restart the Gateway :
-
-* After the module has been installed, you will need to restart the Ignition gateway for the changes to take effect.
-
-<!-- * Launch the Ignition gateway webpage, once login with your credentials, choose Config and modules option for installing or updating the module. Choose the install or update a module option on the screen.
-
-![](../../assets/images/quickstart/installation-1.png) 
-{: style="text-align:center;"}
-
-*	Now choose file button for selecting module, select install button for installing the module
- 
-![](../../assets/images/quickstart/installation-2.png) 
-{: style="text-align:center;"} -->
-
+* **Note**: _Ignition Designer and Client will restart once you install the module._
+S
 ## Open the Designer
-* Open the Designer and enter your login credentials and open FactoMES as Project.
+* Open the Designer and enter your login credentials and create a project or open a existing project to access FactoMES interface.
 
 ![](../../assets/images/quickstart/OpenDesigner.png)  
 {: style="text-align:center;"}
 
-## Create a Factogrid
+<!-- ## Create a Factogrid
 * Click on "Mes-Factogrid" in project browser to access FactoMES interface, Create a new Factogrid by giving a name and clicking on "Create" button.
 
 ![](../../assets/images/quickstart/NewFactoGrid.png) 
@@ -101,4 +89,4 @@ Installation is simple and can be done in under 3 minutes! Let's get started and
 * After that it will open the FactoMES menu. Have fun exploring! 
 
 ![](../../assets/images/quickstart/OpenFinal.png) 
-{: style="text-align:center;"}
+{: style="text-align:center;"} -->
