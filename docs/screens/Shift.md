@@ -8,14 +8,14 @@ nav_order: 1
 
 In Shift screen you have the following tabs.
 
-## LineShift
-* LineShift screen in FactoMES module in Designer
+## Line Shift
+* Line Shift screen is used to create master data related to shifts. Shift timings and days for a line is defined is this screen.
 
 ![](../../../assets/images/screens/lineshift.png) 
 {: style="text-align:center;"}
 
 ## Shift
-* Shift screen in FactoMES module in Designer
+* Shift screen is used to create shifts by using master data available in Line Shift datatable. This data needs to be generated on regular basis.
 
 ![](../../../assets/images/screens/shift.png)
 {: style="text-align:center;"}

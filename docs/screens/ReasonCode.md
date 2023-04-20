@@ -9,13 +9,13 @@ nav_order: 1
 In ReasonCode screen you have the following tabs.
 
 ## Downtime
-* Downtime screen in FactoMES module in Designer
+* Downtime screen helps you to set up downtime related reasons. These reasons can be general or can be specific to an Equipment.
 
 ![](../../../assets/images/screens/downtime.png)
 {: style="text-align:center;"}
 
 ## Scrap
-* Scrap screen in FactoMES module in Designer
+* Scrap screen helps you to set up quality issues related reasons. These reasons can be general or can be specific to an Equipment. 
 
 ![](../../../assets/images/screens/scrap.png) 
 {: style="text-align:center;"}
