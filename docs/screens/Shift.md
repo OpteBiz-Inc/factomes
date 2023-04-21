@@ -2,14 +2,14 @@
 layout: default
 title: Shift
 parent: Screens
-nav_order: 1
+nav_order: 4
 ---
 # Shift
 
 In Shift screen you have the following tabs.
 
 ## Line Shift
-* Line Shift screen is used to create master data related to shifts. Shift timings and days for a line is defined is this screen.
+* Line Shift screen is used to create master data related to shifts. Shift timings and days for a line is defined in this screen.
 
 ![](../../../assets/images/screens/lineshift.png) 
 {: style="text-align:center;"}

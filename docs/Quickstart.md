@@ -61,7 +61,7 @@ Installation is simple and can be done in few minutes! Let's get started and ins
 {: style="text-align:center;"}
 
 * **Note**: _Ignition Designer and Client will restart once you install the module._
-S
+
 ## Open the Designer
 * Open the Designer and enter your login credentials and create a project or open a existing project to access FactoMES interface.
 
