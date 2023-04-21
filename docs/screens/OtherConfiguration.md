@@ -27,8 +27,8 @@ nav_order: 5
 
 # Product Bill Of Material
 * Product Bill Of Material or Product BOM are raw materials or products which are used to create a product.
-* This screen will help to create Product BOM related to a product.
-* Properties related to Product BOM can also be created using tab present in below part of the screen and it is quite easy to add Bill Of Materials (BOM) Details and Material information using other tabs.
+* This screen will help to create Bill Of Materials (BOM) related to a product. select a product from the dropdown and start creating BOMs.
+* Properties related to Product BOM can also be created using tab present in below part of the screen and it is quite easy to add Bill Of Materials Details and Material information using other tabs.
 
 ![](../../../assets/images/screens/productbom.png)
 {: style="text-align:center;"}
