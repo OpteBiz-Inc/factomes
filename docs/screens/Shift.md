@@ -8,14 +8,18 @@ nav_order: 4
 
 In Shift screen you have the following tabs.
 
+## Shift
+* Shift screen is used to create shifts. Shift generation is done on basis of data available in this section.
+* Firstly a Shift Definition is created.
+* Secondly Number of Shifts, Shift Timing and other properties are created for the defined shift definition entry.
+
+![](../../../assets/images/screens/shift.png)
+{: style="text-align:center;"}
+
 ## Line Shift
-* Line Shift screen is used to create master data related to shifts. Shift timings and days for a line is defined in this screen.
+* Relation between Shift definition and Line is defined in this section.
+* Shift data should be created first as it is required to create a shifts schedule for lines.
 
 ![](../../../assets/images/screens/lineshift.png) 
 {: style="text-align:center;"}
 
-## Shift
-* Shift screen is used to create shifts by using master data available in Line Shift datatable. This data needs to be generated on regular basis.
-
-![](../../../assets/images/screens/shift.png)
-{: style="text-align:center;"}
