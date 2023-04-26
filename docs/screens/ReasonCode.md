@@ -5,8 +5,8 @@ parent: Screens
 nav_order: 2
 ---
 # ReasonCode
-
-In ReasonCode screen you have the following tabs.
+<!-- In ReasonCode screen you have the following tabs. -->
+With the Reason Code screen, users can define a range of reason codes that are relevant to their manufacturing processes to quickly and easily categorize downtime or scrap reasons, making it easy to identify the root cause of production downtime or quality issues.
 
 ## Downtime
 * Downtime screen helps you to set up downtime related reasons. These reasons can be general or can be specific to an Equipment.

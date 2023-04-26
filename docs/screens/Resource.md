@@ -5,8 +5,8 @@ parent: Screens
 nav_order: 3
 ---
 # Resource
-
-In Resource screen you have the following tabs.
+<!-- In Resource screen you have the following tabs. -->
+Resource screens are crucial in defining the master data for ISA 95 Resources, such as equipment, personnel and materials. The Resource Screen Set feature allows users to create a comprehensive database of all the resources that are involved in their manufacturing processes, providing a centralized location for managing and tracking this critical data.
 
 ## Equipment Class
 * Equipment Class is helpful in creating Equipment Classes where we can define a class for grouping same kind of equipments.
